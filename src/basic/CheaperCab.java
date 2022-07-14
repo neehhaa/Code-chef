@@ -1,3 +1,14 @@
+/*
+The Cheaper Cab:
+Chef has to travel to another place. For this, he can avail any one of two cab services.
+The first cab service charges XX rupees.
+The second cab service charges YY rupees.
+Chef wants to spend the minimum amount of money. Which cab service should Chef take?
+For each test case, output FIRST if the first cab service is cheaper,
+output SECOND if the second cab service is cheaper,
+output ANY if both cab services have the same price.
+*/
+
 package basic;
 
 import java.util.Scanner;
