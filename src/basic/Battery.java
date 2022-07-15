@@ -13,5 +13,16 @@ public class Battery {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
+        int testcase = input.nextInt();
+
+        while(testcase-- > 0){
+            int battery = input.nextInt();
+            if (battery > 15){
+                System.out.println("NO");
+            }
+            else {
+                System.out.println("YES");
+            }
+        }
     }
 }
