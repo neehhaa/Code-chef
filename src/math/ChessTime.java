@@ -4,7 +4,7 @@ Chef has recently started playing chess, and wants to play as many games as poss
 He calculated that playing one game of chess takes at least 20 minutes of his time.
 Chef has N hours of free time. What is the maximum number of complete chess games he can play in that time?
  */
-package basic;
+package math;
 
 import java.util.Scanner;
 
