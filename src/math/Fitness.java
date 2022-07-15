@@ -5,7 +5,7 @@ It is known that Chef's office is XX km away from his home.
 If his office is open on 55 days in a week,
 find the number of kilometers Chef travels through office trips in a week.
  */
-package basic;
+package math;
 
 import java.util.Scanner;
 
