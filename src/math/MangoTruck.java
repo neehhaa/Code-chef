@@ -3,7 +3,7 @@ package math;
 
 import java.util.Scanner;
 
-public class MangiTruck {
+public class MangoTruck {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int testcase = input.nextInt();
