@@ -15,7 +15,6 @@ public class MangiTruck {
             int remain = canWithstand - truck;
             int mangoes = remain / mango;
             System.out.println(mangoes);
-
         }
     }
 }
