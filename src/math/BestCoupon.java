@@ -1,0 +1,21 @@
+//Best Coupon
+package math;
+
+import java.util.Scanner;
+
+public class BestCoupon {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int testcase = input.nextInt();
+        while(testcase-- > 0) {
+            int bill = input.nextInt();
+            int discount = (bill /10);
+            if (discount>=100) {
+                System.out.println(discount);
+            }
+            else {
+                System.out.println(100);
+            }
+        }
+    }
+}
