@@ -8,6 +8,7 @@ public class Pronunciation {
         int testcase = input.nextInt();
         while (testcase-- > 0) {
 
+
         }
     }
 }
