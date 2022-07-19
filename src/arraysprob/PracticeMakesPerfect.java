@@ -1,5 +1,5 @@
 //Practice makes us perfect
-package math;
+package arraysprob;
 
 import java.util.Scanner;
 
