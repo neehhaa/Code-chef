@@ -1,5 +1,5 @@
 //Mahasena
-package basic;
+package arraysprob;
 
 import java.util.Scanner;
 
